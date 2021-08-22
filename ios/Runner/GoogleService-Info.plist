@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>574963899684-e6r4p2n97kgpr0gsoors1j45mredbg9l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.574963899684-e6r4p2n97kgpr0gsoors1j45mredbg9l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>574963899684-8npjeqotqu6ujre6omhjdn3udl04u3eh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_lwbfQ6mJEh2XVr5RPLr9-58L_zQj1E0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>574963899684</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.social.example.socialapp</string>
+	<key>PROJECT_ID</key>
+	<string>udemy-course-ebf84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>udemy-course-ebf84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:574963899684:ios:b48f14cccbaffe9a5927b1</string>
+</dict>
+</plist>
